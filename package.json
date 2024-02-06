@@ -1,0 +1,23 @@
+{
+  "name": "latihan-tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/css/input.css -o ./public/css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DariusTorto/webprofilema.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DariusTorto/webprofilema/issues"
+  },
+  "homepage": "https://github.com/DariusTorto/webprofilema#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
