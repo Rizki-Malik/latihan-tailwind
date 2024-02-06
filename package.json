@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DariusTorto/webprofilema.git"
+    "url": "git+https://github.com/Rizki-Malik/latihan-tailwind"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DariusTorto/webprofilema/issues"
+    "url": "https://github.com/Rizki-Malik/issues"
   },
-  "homepage": "https://github.com/DariusTorto/webprofilema#readme",
+  "homepage": "https://github.com/Rizki-Malik#readme",
   "devDependencies": {
     "tailwindcss": "^3.1.8"
   }
